@@ -9,7 +9,7 @@ body{
   background-size: cover;
   background-origin: content-box;
   text-align: center;
-  height: 1500px;
+  height: infinite;
   width: infinite;
 }
 .under-container{
