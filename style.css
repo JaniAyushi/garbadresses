@@ -9,8 +9,8 @@ body{
   background-size: cover;
   background-origin: content-box;
   text-align: center;
-  height: infinite;
-  width: infinite;
+  height: auto;
+  width: auto;
 }
 .under-container{
   padding-left: 700px;
