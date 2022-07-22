@@ -3,8 +3,6 @@ body{
   margin: 0;
   padding: 0;
   font-family: monospace,cursive;
-}
-.container{
   background-image: url("https://media.istockphoto.com/vectors/celebrate-navratri-festival-design-vector-vector-id1051632574?k=20&m=1051632574&s=612x612&w=0&h=wQiKxxA0HUm-jSB_0gsyuOmuuTdIEvbwe7KFuEahKpQ=");
   background-position: center;
   background-repeat: no-repeat;
@@ -12,7 +10,7 @@ body{
   background-origin: content-box;
   text-align: center;
   height: 1500px;
-  width: 150%;
+  width: infinite;
 }
 .under-container{
   padding-left: 700px;
