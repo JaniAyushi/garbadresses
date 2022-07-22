@@ -8,6 +8,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-origin: content-box;
+  text-align: center;
   }
 .under-container{
   padding-left: 700px;
@@ -28,6 +29,7 @@ p{
   font-size: 30px;
   color: #FCF8E8;
   font-family: monospace;
+  text-align: center;
 }
 /*.button{
   display: inline-block;
